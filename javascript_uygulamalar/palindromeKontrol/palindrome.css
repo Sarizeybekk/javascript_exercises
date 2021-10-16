@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	padding: 30px;
+ background: linear-gradient(to right, #00AAFF, #00FF6C);;
+	color: white;
+	}
+	body{
+		  background: linear-gradient(to right, #00AAFF, #00FF6C);
+	}
+
+	.palin {
+	margin: 10px;
+	width: 40%;
+	border: 3px solid cyan;
+	border-radius: 5px;
+	padding: 30px;
+	}
+
+
+	#snc {
+
+	width: 50%;
+	border: 3px solid balck;
+	border-radius: 10px;
+	padding: 10px;
+	}

@@ -1,0 +1,43 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+        <title></title>
+    <link rel="stylesheet" href="kronometre.css">
+    <script src="kronometre.js" defer></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="time">
+            <span class="digit" id="saat">
+                00
+            </span>
+            <span class="txt">
+                :
+            </span>
+            <span class="digit" id="dakika">
+                00
+            </span>
+            <span class="txt">
+                :
+            </span>
+            <span class="digit" id="saniye">
+                00
+            </span>
+            <span class="txt">
+                :
+            </span>
+            <span class="digit" id="mSaniye">
+                00
+            </span>
+        </div>
+        <div id="btn-container">
+            <button class="btn" id="start" onclick="start()" ;>Başla</button>
+            <button class="btn" id="stop" onclick="stop();">Durdur</button>
+            <button class="btn" id="reset" onclick="reset();">Sıfırla</button>
+        </div>
+    </div>
+</body>
+
+</html>

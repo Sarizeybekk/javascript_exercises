@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+}
+body{
+  display: grid;
+  place-items:center;
+   background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+.saat {
+  background: black;
+  height: 120px;
+  width: 400px;
+  line-height: 70px;
+  text-align: center;
+  padding: 0 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-items:normal;
+    align-content:normal;
+  }
+
+.saatGörüntüle{
+font-size: 60px;
+color: cyan;
+letter-spacing: 5px;
+font-family: sans-serif;
+}
+
+  .clock-items{
+      width: 30%;
+      background-color: black;
+      color:cyan;
+      border-radius: 10px;
+      text-align: center;
+      margin-right: 3%;
+      padding-top:30px;
+      padding-bottom: 30px;
+      font-size: 70px;
+      letter-spacing: 5px;
+      font-family: 'Orbitron', sans-serif;
+
+
+  }

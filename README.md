@@ -13,20 +13,11 @@ Bu repoda aşağıdaki alıştırmalar bulunmaktadır:
 - **palindromeKontrol**: Girilen kelimenin palindrom olup olmadığını kontrol eden fonksiyon.
 
 ---
+# 🚀 Nasıl Kullanılır?
 
-## 🚀 Nasıl Kullanılır?
+### 1. Depoyu Klonlayın
+Proje dosyalarını bilgisayarınıza indirmek için aşağıdaki komutları kullanabilirsiniz:
 
-### 1. Depoyu Klonlayın:
 ```bash
 git clone https://github.com/Sarizeybekk/javascript_exercises.git
 cd javascript_exercises
-2. Alıştırmaları İnceleyin:
-Her bir alıştırma kendi klasöründe bulunmaktadır.
-İlgili klasöre giderek kodları inceleyebilir ve kendi bilgisayarınızda çalıştırabilirsiniz.
-
-3. Kendi Çözümlerinizi Geliştirin:
-Alıştırmaları tamamladıktan sonra, kendi çözümlerinizi geliştirebilir ve mevcut kodlarla karşılaştırabilirsiniz.
-
-🛠️ Gereksinimler
-Web Tarayıcısı: Alıştırmaları çalıştırmak için modern bir web tarayıcısına ihtiyacınız olacak.
-Kod Editörü: Kendi kodlarınızı yazmak ve mevcut kodları incelemek için bir kod editörü (örneğin, Visual Studio Code) kullanabilirsiniz.
